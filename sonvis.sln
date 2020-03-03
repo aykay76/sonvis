@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sonvis", "sonvis.vcproj", "{E6D92C7D-421D-4C1B-B887-D1DB539D5A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E6D92C7D-421D-4C1B-B887-D1DB539D5A2C}.Debug.ActiveCfg = Debug|Win32
+		{E6D92C7D-421D-4C1B-B887-D1DB539D5A2C}.Debug.Build.0 = Debug|Win32
+		{E6D92C7D-421D-4C1B-B887-D1DB539D5A2C}.Release.ActiveCfg = Release|Win32
+		{E6D92C7D-421D-4C1B-B887-D1DB539D5A2C}.Release.Build.0 = Release|Win32
+		{110FE3E0-9B08-420A-BAF8-06FF3E77EEA1}.Debug.ActiveCfg = Debug|Win32
+		{110FE3E0-9B08-420A-BAF8-06FF3E77EEA1}.Release.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		DPBuild = 5
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
